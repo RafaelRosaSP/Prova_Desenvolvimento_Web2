@@ -5,6 +5,7 @@
 Criar um projeto Web com uso da linguagem PHP.
 
 • Este projeto deve ter uma área de login, com o usuário e senha fixos.
+
 ◦ Deve ser possível realizar login e logout
 • Este projeto deve realizar um cadastro em arquivo texto. Deve-se ter pelo menos três campos de
 informações.
