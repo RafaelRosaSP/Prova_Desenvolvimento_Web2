@@ -22,7 +22,7 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
     <div class="page-header">
         <h1>Olá, <b><?php echo htmlspecialchars($_SESSION["username"]); ?>
         <br>
-        </b>Muito benvindo ao cadastro de dúvidas do curso DSM</h1>
+        </b>Muito bem vindo ao cadastro de dúvidas do curso DSM</h1>
     </div>
     <p> 
         <!-- 
@@ -33,6 +33,8 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
         <br> <br>
         <br> <br>
         <a href="cadastrar.php">Cadastre suas dúvidas</a>
+        <br> <br>
+        <a href="listacadastros.php">Visualizar cadastros</a>
         <br> <br>
         <br> <br>
         <br> <br>
