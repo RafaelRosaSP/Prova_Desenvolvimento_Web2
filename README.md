@@ -29,6 +29,7 @@ código e realizando perguntas sobre o projeto.
 
 Ideias para o projeto
 
+
 • Cadastro de alunos da Fatec Araras:
 
 ◦ Cadastro de nome, sobrenome e RA dos alunos.
