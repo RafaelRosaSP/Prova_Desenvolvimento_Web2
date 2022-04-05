@@ -1,9 +1,9 @@
-#Primeira Avaliação
+Primeira Avaliação
 
-#Desenvolvimento Web 2
+Desenvolvimento Web 2
 
 
-Criar um projeto Web com uso da linguagem PHP.
+<b> Criar um projeto Web com uso da linguagem PHP. </b>
 
 • Este projeto deve ter uma área de login, com o usuário e senha fixos.
 
@@ -16,7 +16,7 @@ informações.
 Publicar seu projeto até 02 de abril de 2022
 
 
-A avaliação do projeto será feito em dois momentos:
+<b> A avaliação do projeto será feito em dois momentos: </b>
 
 • Entrega do código-fonte em um repositório no seu portifólio do github.
 
@@ -28,7 +28,7 @@ código e realizando perguntas sobre o projeto.
 ◦ Demonstrar domínio sobre o próprio código desenvolvido.
 
 
-Ideias para o projeto
+<b> Ideias para o projeto </b>
 
 
 • Cadastro de alunos da Fatec Araras:
