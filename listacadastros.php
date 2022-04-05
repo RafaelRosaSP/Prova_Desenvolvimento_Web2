@@ -38,9 +38,9 @@
 
         if (stristr($line, 'Nome:'))
             $nome = substr($line, 5, strlen($line)-6);
-        if (stristr($line, 'Sugestão:'))
+        if (stristr($line, 'Sug:'))
             $sug = substr($line, 4, strlen($line)-5);
-        if (stristr($line, 'Dúvida'))
+        if (stristr($line, 'Duv'))
             $duv = substr($line, 4, strlen($line)-5);
         {
             

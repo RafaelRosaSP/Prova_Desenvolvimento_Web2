@@ -37,9 +37,10 @@
             $handle = fopen("dados_enviados.txt", "a");
         }
             
-            fwrite($handle,$nome."\n");
-            fwrite($handle, $duv."\n");
-            fwrite($handle, $sug."\n");
+            fwrite($handle, "NOME:".$nome."\n");
+            fwrite($handle, "Duv:".$duv."\n");
+            fwrite($handle, "Sug:".$sug."\n");
+            
             fwrite($handle,"\n");
             fflush($handle);
             fclose($handle);
